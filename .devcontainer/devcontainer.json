@@ -1,0 +1,6 @@
+{
+  "image": "mcr.microsoft.com/devcontainers/typescript-node:16",
+  "features": {
+    "ghcr.io/devcontainers-contrib/features/elasticsearch-asdf:2": {}
+  }
+}
